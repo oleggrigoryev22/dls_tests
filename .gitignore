@@ -1,0 +1,7 @@
+lightning_logs/
+.ipynb_checkpoints/
+test/
+train/
+logs/
+validation/
+augm/
